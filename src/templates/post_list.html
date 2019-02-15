@@ -15,7 +15,8 @@
         {% endif %}
       <!--<img src="..." alt="...">-->
       <div class="caption">
-        <h3><a href='{{ obj.get_absolute_url }}'>{{ obj.title }} </a><small>{{ obj.timestamp|timesince }} ago</small><br/></h3>
+          {% if obj.draft %}<h3 style="color:red">Staff only: Draft</h3>{% endif %}<h3>{% if obj.publish > today %}Staff only: Future post{% endif %}</h3>
+        <h3><a href='{{ obj.get_absolute_url }}'>{{ obj.title }} </a><small>{{ obj.publish}} ago</small><br/></h3>
         {% if obj.user.get_full_name %}
         <p>Author: {{ obj.user.get_full_name }}</p>
         {% endif %}

@@ -1,0 +1,767 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e69d0a56-4cce-4e18-8e1e-a8837b948c70\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"true\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FUSProjectUsageTrigger\">\r\n    <session id=\"556140966\">\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.closed\" value=\"2\" />\r\n          <entry key=\"project.open.time.0\" value=\"2\" />\r\n          <entry key=\"project.open.time.1\" value=\"1\" />\r\n          <entry key=\"project.open.time.24\" value=\"1\" />\r\n          <entry key=\"project.opened\" value=\"4\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.open\">\r\n        <counts>\r\n          <entry key=\"html\" value=\"1\" />\r\n          <entry key=\"md\" value=\"1\" />\r\n          <entry key=\"py\" value=\"21\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.open\">\r\n        <counts>\r\n          <entry key=\"HTML\" value=\"1\" />\r\n          <entry key=\"Markdown\" value=\"1\" />\r\n          <entry key=\"Python\" value=\"21\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.edit\">\r\n        <counts>\r\n          <entry key=\"Python Console\" value=\"34\" />\r\n          <entry key=\"html\" value=\"86\" />\r\n          <entry key=\"py\" value=\"1474\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.edit\">\r\n        <counts>\r\n          <entry key=\"HTML\" value=\"86\" />\r\n          <entry key=\"Python\" value=\"1508\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n    <session id=\"1689341925\">\r\n      <usages-collector id=\"statistics.file.extensions.open\">\r\n        <counts>\r\n          <entry key=\"html\" value=\"1\" />\r\n          <entry key=\"py\" value=\"5\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.open\">\r\n        <counts>\r\n          <entry key=\"HTML\" value=\"1\" />\r\n          <entry key=\"Python\" value=\"5\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.edit\">\r\n        <counts>\r\n          <entry key=\"Python Console\" value=\"47\" />\r\n          <entry key=\"py\" value=\"9\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.edit\">\r\n        <counts>\r\n          <entry key=\"Python\" value=\"56\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.closed\" value=\"1\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n    <session id=\"1692185897\">\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.closed\" value=\"1\" />\r\n          <entry key=\"project.open.time.12\" value=\"1\" />\r\n          <entry key=\"project.open.time.25\" value=\"1\" />\r\n          <entry key=\"project.opened\" value=\"2\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.edit\">\r\n        <counts>\r\n          <entry key=\"Python Console\" value=\"47\" />\r\n          <entry key=\"html\" value=\"470\" />\r\n          <entry key=\"py\" value=\"1374\" />\r\n          <entry key=\"txt\" value=\"55\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.edit\">\r\n        <counts>\r\n          <entry key=\"HTML\" value=\"470\" />\r\n          <entry key=\"PLAIN_TEXT\" value=\"55\" />\r\n          <entry key=\"Python\" value=\"1421\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.open\">\r\n        <counts>\r\n          <entry key=\"html\" value=\"3\" />\r\n          <entry key=\"md\" value=\"1\" />\r\n          <entry key=\"py\" value=\"17\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.open\">\r\n        <counts>\r\n          <entry key=\"HTML\" value=\"3\" />\r\n          <entry key=\"Markdown\" value=\"1\" />\r\n          <entry key=\"Python\" value=\"17\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/templates/index.html\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"187\">\r\n              <caret line=\"11\" column=\"13\" selection-start-line=\"11\" selection-start-column=\"13\" selection-end-line=\"11\" selection-end-column=\"13\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/templates/post_detail.html\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"255\">\r\n              <caret line=\"15\" selection-start-line=\"15\" selection-end-line=\"15\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/posts/forms.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"153\">\r\n              <caret line=\"9\" column=\"21\" selection-start-line=\"9\" selection-start-column=\"21\" selection-end-line=\"9\" selection-end-column=\"21\" />\r\n              <folding>\r\n                <element signature=\"e#0#24#0\" expanded=\"true\" />\r\n                <marker date=\"1549110970516\" expanded=\"true\" signature=\"84:89\" ph=\"...\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/posts/models.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"255\">\r\n              <caret line=\"15\" selection-start-line=\"15\" selection-end-line=\"15\" />\r\n              <folding>\r\n                <element signature=\"e#0#39#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/posts/views.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"244\">\r\n              <caret line=\"77\" column=\"26\" selection-start-line=\"77\" selection-start-column=\"26\" selection-end-line=\"77\" selection-end-column=\"26\" />\r\n              <folding>\r\n                <element signature=\"e#0#35#0\" expanded=\"true\" />\r\n                <marker date=\"1549402460077\" expanded=\"true\" signature=\"965:967\" ph=\"...\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/templates/post_form.html\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state>\r\n              <caret column=\"15\" selection-start-column=\"15\" selection-end-column=\"15\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/posts/urls.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"272\">\r\n              <caret line=\"16\" column=\"23\" selection-start-line=\"16\" selection-start-column=\"23\" selection-end-line=\"16\" selection-end-column=\"23\" />\r\n              <folding>\r\n                <element signature=\"e#0#32#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>try</find>\r\n    </findStrings>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/posts/admin.py\" />\r\n        <option value=\"$PROJECT_DIR$/trydjango19/settings.py\" />\r\n        <option value=\"$PROJECT_DIR$/manage.py\" />\r\n        <option value=\"$PROJECT_DIR$/trydjango19/urls.py\" />\r\n        <option value=\"$PROJECT_DIR$/posts/models.py\" />\r\n        <option value=\"$PROJECT_DIR$/templates/index.html\" />\r\n        <option value=\"$PROJECT_DIR$/posts/forms.py\" />\r\n        <option value=\"$PROJECT_DIR$/templates/post_form.html\" />\r\n        <option value=\"$PROJECT_DIR$/templates/post_detail.html\" />\r\n        <option value=\"$PROJECT_DIR$/posts/urls.py\" />\r\n        <option value=\"$PROJECT_DIR$/posts/views.py\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"width\" value=\"683\" />\r\n    <option name=\"height\" value=\"728\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"trydjango19\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"trydjango19\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"trydjango19\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"trydjango19\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"posts\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"trydjango19\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"trydjango19\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"templates\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"trydjango19\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"trydjango19\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"trydjango19\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n      <pane id=\"Scope\" />\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"SearchEverywhereHistoryKey\" value=\"git&#9;null&#9;null\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"file.status.colors\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Django 1.9\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"trydjango19\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\_\\django site\\env1.9\\Scripts\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/manage.py\" />\r\n      <option name=\"PARAMETERS\" value=\"runserver\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <module name=\"trydjango19\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\WWW\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e69d0a56-4cce-4e18-8e1e-a8837b948c70\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1545743531311</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1545743531311</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"post create, delete, update / first commit\">\r\n      <created>1549405181771</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1549405181771</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TodoView\">\r\n    <todo-panel id=\"selected-file\">\r\n      <is-autoscroll-to-source value=\"true\" />\r\n    </todo-panel>\r\n    <todo-panel id=\"all\">\r\n      <are-packages-shown value=\"true\" />\r\n      <is-autoscroll-to-source value=\"true\" />\r\n    </todo-panel>\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"744\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.10119048\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" sideWeight=\"0.49925596\" visible=\"true\" weight=\"0.32879046\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" weight=\"0.32879046\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"8\" weight=\"0.3253833\" />\r\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Event Log\" order=\"9\" sideWeight=\"0.50074404\" side_tool=\"true\" visible=\"true\" weight=\"0.32879046\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"10\" weight=\"0.234676\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout>\r\n    <layout-to-restore>\r\n      <window_info id=\"Favorites\" order=\"0\" side_tool=\"true\" />\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"1\" visible=\"true\" weight=\"0.30131826\" />\r\n      <window_info id=\"Structure\" order=\"2\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"1\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"2\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"3\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"4\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"5\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"7\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"8\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"9\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"10\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout-to-restore>\r\n  </component>\r\n  <component name=\"VcsContentAnnotationSettings\">\r\n    <option name=\"myLimit\" value=\"2678400000\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"post create, delete, update / first commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"post create, delete, update / first commit\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/django/contrib/admin/options.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"182\">\r\n          <caret line=\"480\" column=\"4\" selection-start-line=\"480\" selection-start-column=\"4\" selection-end-line=\"480\" selection-end-column=\"4\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/../env1.9/Scripts/django-admin.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"51\">\r\n          <caret line=\"3\" column=\"26\" selection-start-line=\"3\" selection-start-column=\"26\" selection-end-line=\"3\" selection-end-column=\"26\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/__init__.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/apps.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/tests.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/crud.md\">\r\n      <provider selected=\"true\" editor-type-id=\"split-provider[text-editor;markdown-preview-editor]\">\r\n        <state split_layout=\"SPLIT\">\r\n          <first_editor>\r\n            <caret lean-forward=\"true\" />\r\n          </first_editor>\r\n          <second_editor />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/manage.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"85\">\r\n          <caret line=\"5\" lean-forward=\"true\" selection-start-line=\"5\" selection-end-line=\"5\" />\r\n          <folding>\r\n            <element signature=\"e#22#31#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/admin.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <folding>\r\n            <element signature=\"e#0#32#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/django/db/models/base.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"153\">\r\n          <caret line=\"463\" column=\"8\" selection-start-line=\"463\" selection-start-column=\"8\" selection-end-line=\"463\" selection-end-column=\"8\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/forms.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"153\">\r\n          <caret line=\"9\" column=\"21\" selection-start-line=\"9\" selection-start-column=\"21\" selection-end-line=\"9\" selection-end-column=\"21\" />\r\n          <folding>\r\n            <element signature=\"e#0#24#0\" expanded=\"true\" />\r\n            <marker date=\"1549110970516\" expanded=\"true\" signature=\"84:89\" ph=\"...\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/trydjango19/urls.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"272\">\r\n          <caret line=\"16\" selection-start-line=\"16\" selection-end-line=\"16\" />\r\n          <folding>\r\n            <element signature=\"e#700#741#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/trydjango19/settings.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"305\">\r\n          <caret line=\"71\" column=\"23\" selection-start-line=\"71\" selection-start-column=\"20\" selection-end-line=\"71\" selection-end-column=\"23\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/trydjango19/wsgi.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"170\">\r\n          <caret line=\"12\" selection-start-line=\"12\" selection-end-line=\"12\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/templates/index.html\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"187\">\r\n          <caret line=\"11\" column=\"13\" selection-start-line=\"11\" selection-start-column=\"13\" selection-end-line=\"11\" selection-end-column=\"13\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/templates/post_detail.html\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"255\">\r\n          <caret line=\"15\" selection-start-line=\"15\" selection-end-line=\"15\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/models.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"255\">\r\n          <caret line=\"15\" selection-start-line=\"15\" selection-end-line=\"15\" />\r\n          <folding>\r\n            <element signature=\"e#0#39#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/templates/post_form.html\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret column=\"15\" selection-start-column=\"15\" selection-end-column=\"15\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/urls.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"272\">\r\n          <caret line=\"16\" column=\"23\" selection-start-line=\"16\" selection-start-column=\"23\" selection-end-line=\"16\" selection-end-column=\"23\" />\r\n          <folding>\r\n            <element signature=\"e#0#32#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/pip/_internal/vcs/git.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"187\">\r\n          <caret line=\"30\" column=\"6\" selection-start-line=\"30\" selection-start-column=\"6\" selection-end-line=\"30\" selection-end-column=\"6\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/posts/views.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"244\">\r\n          <caret line=\"77\" column=\"26\" selection-start-line=\"77\" selection-start-column=\"26\" selection-end-line=\"77\" selection-end-column=\"26\" />\r\n          <folding>\r\n            <element signature=\"e#0#35#0\" expanded=\"true\" />\r\n            <marker date=\"1549402460077\" expanded=\"true\" signature=\"965:967\" ph=\"...\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1549405460000)
++++ .idea/workspace.xml	(date 1550098206280)
+@@ -1,7 +1,32 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="e69d0a56-4cce-4e18-8e1e-a8837b948c70" name="Default Changelist" comment="" />
++    <list default="true" id="e69d0a56-4cce-4e18-8e1e-a8837b948c70" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/WWW.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/crud.md" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/__init__.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/admin.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/apps.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/forms.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/migrations/0001_initial.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/migrations/__init__.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/models.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/tests.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/urls.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/posts/views.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/templates/post_detail.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/templates/post_form.html" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/trydjango19/__init__.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/trydjango19/settings.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/trydjango19/urls.py" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/trydjango19/wsgi.py" beforeDir="false" />
++    </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="true" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -80,135 +105,198 @@
+     <session id="1692185897">
+       <usages-collector id="statistics.lifecycle.project">
+         <counts>
+-          <entry key="project.closed" value="1" />
++          <entry key="project.closed" value="4" />
++          <entry key="project.open.time.0" value="1" />
+           <entry key="project.open.time.12" value="1" />
++          <entry key="project.open.time.2" value="1" />
++          <entry key="project.open.time.23" value="1" />
+           <entry key="project.open.time.25" value="1" />
+-          <entry key="project.opened" value="2" />
++          <entry key="project.opened" value="5" />
+         </counts>
+       </usages-collector>
+       <usages-collector id="statistics.file.extensions.edit">
+         <counts>
+-          <entry key="Python Console" value="47" />
+-          <entry key="html" value="470" />
+-          <entry key="py" value="1374" />
++          <entry key="Python Console" value="97" />
++          <entry key="css" value="8" />
++          <entry key="html" value="1512" />
++          <entry key="py" value="3153" />
+           <entry key="txt" value="55" />
+         </counts>
+       </usages-collector>
+       <usages-collector id="statistics.file.types.edit">
+         <counts>
+-          <entry key="HTML" value="470" />
++          <entry key="CSS" value="8" />
++          <entry key="HTML" value="1512" />
+           <entry key="PLAIN_TEXT" value="55" />
+-          <entry key="Python" value="1421" />
++          <entry key="Python" value="3250" />
+         </counts>
+       </usages-collector>
+       <usages-collector id="statistics.file.extensions.open">
+         <counts>
+-          <entry key="html" value="3" />
++          <entry key="LICENSE" value="1" />
++          <entry key="css" value="1" />
++          <entry key="html" value="14" />
+           <entry key="md" value="1" />
+-          <entry key="py" value="17" />
++          <entry key="py" value="42" />
++          <entry key="sqlite3" value="1" />
++          <entry key="sublime-project" value="1" />
++          <entry key="sublime-workspace" value="1" />
++          <entry key="txt" value="2" />
+         </counts>
+       </usages-collector>
+       <usages-collector id="statistics.file.types.open">
+         <counts>
+-          <entry key="HTML" value="3" />
++          <entry key="CSS" value="1" />
++          <entry key="HTML" value="14" />
+           <entry key="Markdown" value="1" />
+-          <entry key="Python" value="17" />
++          <entry key="PLAIN_TEXT" value="5" />
++          <entry key="Python" value="42" />
++          <entry key="SQL" value="1" />
+         </counts>
+       </usages-collector>
+     </session>
+   </component>
+   <component name="FileEditorManager">
+-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="187">
+-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="255">
+-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/posts/forms.py">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="153">
+-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+-              <folding>
+-                <element signature="e#0#24#0" expanded="true" />
+-                <marker date="1549110970516" expanded="true" signature="84:89" ph="..." />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/posts/models.py">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="255">
+-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+-              <folding>
+-                <element signature="e#0#39#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/posts/views.py">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="244">
+-              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+-              <folding>
+-                <element signature="e#0#35#0" expanded="true" />
+-                <marker date="1549402460077" expanded="true" signature="965:967" ph="..." />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/templates/post_form.html">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state>
+-              <caret column="15" selection-start-column="15" selection-end-column="15" />
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/posts/urls.py">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="272">
+-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+-              <folding>
+-                <element signature="e#0#32#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
++    <splitter split-orientation="horizontal" split-proportion="0.43524095">
++      <split-first>
++        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/posts/urls.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="238">
++                  <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
++                  <folding>
++                    <element signature="e#0#32#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/posts/models.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="305">
++                  <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
++                  <folding>
++                    <element signature="e#0#39#0" expanded="true" />
++                    <marker date="1550076225772" expanded="true" signature="1844:1845" ph="..." />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/trydjango19/settings.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="176">
++                  <caret line="125" column="37" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/posts/forms.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="204">
++                  <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
++                  <folding>
++                    <element signature="e#0#24#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/trydjango19/urls.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="1376">
++                  <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
++                  <folding>
++                    <element signature="e#700#732#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/templates/post_detail.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="68">
++                  <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/templates/post_form.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="104">
++                  <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="true">
++            <entry file="file://$PROJECT_DIR$/src/templates/post_list.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="153">
++                  <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/templates/base.html">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="200">
++                  <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
++                </state>
++              </provider>
++            </entry>
++          </file>
++        </leaf>
++      </split-first>
++      <split-second>
++        <leaf>
++          <file pinned="false" current-in-tab="false">
++            <entry file="file://$PROJECT_DIR$/src/posts/urls.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state relative-caret-position="237">
++                  <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
++                  <folding>
++                    <element signature="e#0#32#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++          <file pinned="false" current-in-tab="true">
++            <entry file="file://$PROJECT_DIR$/src/posts/views.py">
++              <provider selected="true" editor-type-id="text-editor">
++                <state>
++                  <folding>
++                    <element signature="e#1#36#0" expanded="true" />
++                  </folding>
++                </state>
++              </provider>
++            </entry>
++          </file>
++        </leaf>
++      </split-second>
++    </splitter>
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+       <list>
+-        <option value="Python Script" />
+         <option value="HTML File" />
++        <option value="Python Script" />
+       </list>
+     </option>
+   </component>
+   <component name="FindInProjectRecents">
+     <findStrings>
+       <find>try</find>
++      <find>sett</find>
+     </findStrings>
+   </component>
+   <component name="Git.Settings">
+@@ -218,22 +306,71 @@
+     <option name="CHANGED_PATHS">
+       <list>
+         <option value="$PROJECT_DIR$/posts/admin.py" />
+-        <option value="$PROJECT_DIR$/trydjango19/settings.py" />
+-        <option value="$PROJECT_DIR$/manage.py" />
+-        <option value="$PROJECT_DIR$/trydjango19/urls.py" />
+         <option value="$PROJECT_DIR$/posts/models.py" />
+         <option value="$PROJECT_DIR$/templates/index.html" />
+         <option value="$PROJECT_DIR$/posts/forms.py" />
+         <option value="$PROJECT_DIR$/templates/post_form.html" />
+         <option value="$PROJECT_DIR$/templates/post_detail.html" />
+-        <option value="$PROJECT_DIR$/posts/urls.py" />
++        <option value="$PROJECT_DIR$/templates/post_list.html" />
+         <option value="$PROJECT_DIR$/posts/views.py" />
++        <option value="$PROJECT_DIR$/posts/urls.py" />
++        <option value="$PROJECT_DIR$/templates/messages.html" />
++        <option value="$PROJECT_DIR$/templates/messages_display.html" />
++        <option value="$PROJECT_DIR$/templates/base.html" />
++        <option value="$PROJECT_DIR$/trydjango19/urls.py" />
++        <option value="$PROJECT_DIR$/trydjango19/settings.py" />
++        <option value="$PROJECT_DIR$/manage.py" />
++        <option value="$PROJECT_DIR$/src/settings.py" />
++        <option value="$PROJECT_DIR$/src/trydjango_19/settings.py" />
++        <option value="$PROJECT_DIR$/src/manage.py" />
++        <option value="$PROJECT_DIR$/src/static/css/base.css" />
++        <option value="$PROJECT_DIR$/src/templates/base.html" />
++        <option value="$PROJECT_DIR$/src/trydjango19/settings.py" />
++        <option value="$PROJECT_DIR$/src/posts/forms.py" />
++        <option value="$PROJECT_DIR$/src/templates/post_form.html" />
++        <option value="$PROJECT_DIR$/src/templates/post_detail.html" />
++        <option value="$PROJECT_DIR$/src/posts/urls.py" />
++        <option value="$PROJECT_DIR$/src/posts/models.py" />
++        <option value="$PROJECT_DIR$/src/trydjango19/urls.py" />
++        <option value="$PROJECT_DIR$/src/posts/views.py" />
++        <option value="$PROJECT_DIR$/src/templates/post_list.html" />
+       </list>
+     </option>
+   </component>
+   <component name="ProjectFrameBounds" extendedState="6">
++    <option name="x" value="358" />
++    <option name="y" value="-15" />
+     <option name="width" value="683" />
+-    <option name="height" value="728" />
++    <option name="height" value="727" />
++  </component>
++  <component name="ProjectInspectionProfilesVisibleTreeState">
++    <entry key="Project Default">
++      <profile-state>
++        <expanded-state>
++          <State />
++          <State>
++            <id>General</id>
++          </State>
++          <State>
++            <id>Properties Files</id>
++          </State>
++          <State>
++            <id>Python</id>
++          </State>
++          <State>
++            <id>RegExp</id>
++          </State>
++          <State>
++            <id>XML</id>
++          </State>
++        </expanded-state>
++        <selected-state>
++          <State>
++            <id>PyCompatibilityInspection</id>
++          </State>
++        </selected-state>
++      </profile-state>
++    </entry>
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+@@ -251,17 +388,13 @@
+             <path>
+               <item name="trydjango19" type="b2602c69:ProjectViewProjectNode" />
+               <item name="trydjango19" type="462c0819:PsiDirectoryNode" />
+-              <item name="posts" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
+             </path>
+             <path>
+               <item name="trydjango19" type="b2602c69:ProjectViewProjectNode" />
+               <item name="trydjango19" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
+               <item name="templates" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="trydjango19" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="trydjango19" type="462c0819:PsiDirectoryNode" />
+-              <item name="trydjango19" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+           <select />
+@@ -273,8 +406,16 @@
+   <component name="PropertiesComponent">
+     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="SearchEverywhereHistoryKey" value="git&#9;null&#9;null" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../smmgroup" />
++    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
++    <property name="settings.editor.selected.configurable" value="Errors" />
++  </component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\_\django site1\trydjango19" />
++      <recent name="C:\_\django site1\trydjango19\src" />
++      <recent name="C:\_\django site1\trydjango19\src\trydjango19" />
++    </key>
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -297,11 +438,11 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="C:\_\django site\env1.9\Scripts\python.exe" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+       <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/manage.py" />
+       <option name="PARAMETERS" value="runserver" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -353,7 +494,7 @@
+     <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+-  <component name="TodoView">
++  <component name="TodoView" selected-index="3">
+     <todo-panel id="selected-file">
+       <is-autoscroll-to-source value="true" />
+     </todo-panel>
+@@ -364,41 +505,40 @@
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+-    <editor active="true" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10119048" />
++      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2559524" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Favorites" order="2" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+-      <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.32879046" />
++      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
++      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982548" weight="0.3424191" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3253833" />
+-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.32879046" />
+-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.234676" />
++      <window_info anchor="bottom" id="TODO" order="6" weight="0.32541132" />
++      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3270869" />
++      <window_info anchor="bottom" id="Terminal" order="8" weight="0.51959115" />
++      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017452" side_tool="true" weight="0.33800352" />
++      <window_info anchor="bottom" id="Python Console" order="10" weight="0.30647987" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+     </layout>
+     <layout-to-restore>
+-      <window_info id="Favorites" order="0" side_tool="true" />
+-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.30131826" />
+-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+-      <window_info anchor="bottom" id="Terminal" order="0" />
+-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+-      <window_info anchor="bottom" id="Python Console" order="3" />
+-      <window_info anchor="bottom" id="Message" order="4" />
+-      <window_info anchor="bottom" id="Find" order="5" />
+-      <window_info anchor="bottom" id="Run" order="6" />
+-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+-      <window_info anchor="bottom" id="TODO" order="10" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16592261" />
++      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info id="Favorites" order="2" side_tool="true" />
++      <window_info anchor="bottom" id="Message" order="0" />
++      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
++      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4982548" visible="true" weight="0.3424191" />
++      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
++      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
++      <window_info anchor="bottom" id="TODO" order="6" weight="0.32541132" />
++      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32723948" />
++      <window_info anchor="bottom" id="Terminal" order="8" weight="0.51959115" />
++      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5017452" side_tool="true" weight="0.33800352" />
++      <window_info anchor="bottom" id="Python Console" order="10" weight="0.30647987" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+@@ -426,142 +566,152 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/__init__.py">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/apps.py">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/tests.py">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/crud.md">
+-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+-        <state split_layout="SPLIT">
+-          <first_editor>
+-            <caret lean-forward="true" />
+-          </first_editor>
+-          <second_editor />
++    <entry file="file://$PROJECT_DIR$/posts/__init__.py" />
++    <entry file="file://$PROJECT_DIR$/crud.md" />
++    <entry file="file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/django/db/models/base.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="153">
++          <caret line="463" column="8" selection-start-line="463" selection-start-column="8" selection-end-line="463" selection-end-column="8" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/manage.py">
++    <entry file="file://$PROJECT_DIR$/trydjango19/wsgi.py" />
++    <entry file="file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/pip/_internal/vcs/git.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="85">
+-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+-          <folding>
+-            <element signature="e#22#31#0" expanded="true" />
+-          </folding>
++        <state relative-caret-position="187">
++          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/admin.py">
++    <entry file="file://$PROJECT_DIR$/templates/index.html" />
++    <entry file="file://$PROJECT_DIR$/templates/post_form.html" />
++    <entry file="file://$PROJECT_DIR$/templates/post_detail.html" />
++    <entry file="file://$PROJECT_DIR$/posts/urls.py" />
++    <entry file="file://$PROJECT_DIR$/posts/admin.py" />
++    <entry file="file://$PROJECT_DIR$/templates/messages_display.html" />
++    <entry file="file://$PROJECT_DIR$/posts/forms.py" />
++    <entry file="file://$PROJECT_DIR$/posts/views.py" />
++    <entry file="file://$PROJECT_DIR$/templates/post_list.html" />
++    <entry file="file://$PROJECT_DIR$/posts/apps.py" />
++    <entry file="file://$PROJECT_DIR$/posts/models.py" />
++    <entry file="file://$PROJECT_DIR$/posts/tests.py" />
++    <entry file="file://$PROJECT_DIR$/templates/base.html" />
++    <entry file="file://$PROJECT_DIR$/trydjango19/__init__.py" />
++    <entry file="file://$PROJECT_DIR$/__init__.py" />
++    <entry file="file://$PROJECT_DIR$/trydjango19/urls.py" />
++    <entry file="file://$PROJECT_DIR$/manage.py" />
++    <entry file="file://$PROJECT_DIR$/trydjango19/settings.py" />
++    <entry file="file://$PROJECT_DIR$/requirements.txt" />
++    <entry file="file://$PROJECT_DIR$/trydjango19.sublime-project" />
++    <entry file="file://$PROJECT_DIR$/trydjango19.sublime-workspace" />
++    <entry file="file://$PROJECT_DIR$/LICENSE">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/static_cdn/admin/fonts/LICENSE.txt">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state>
+-          <folding>
+-            <element signature="e#0#32#0" expanded="true" />
+-          </folding>
+-        </state>
++        <state relative-caret-position="-12" />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/django/db/models/base.py">
++    <entry file="file://$PROJECT_DIR$/src/static/css/base.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="153">
+-          <caret line="463" column="8" selection-start-line="463" selection-start-column="8" selection-end-line="463" selection-end-column="8" />
++        <state>
++          <caret column="4" selection-start-column="4" selection-end-column="4" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/forms.py">
++    <entry file="file://$PROJECT_DIR$/src/db.sqlite3">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="153">
+-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+-          <folding>
+-            <element signature="e#0#24#0" expanded="true" />
+-            <marker date="1549110970516" expanded="true" signature="84:89" ph="..." />
+-          </folding>
+-        </state>
++        <state relative-caret-position="-9" />
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/trydjango19/urls.py">
++    <entry file="file://$PROJECT_DIR$/src/manage.py">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/trydjango19/wsgi.py">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/templates/post_form.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="272">
+-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+-          <folding>
+-            <element signature="e#700#741#0" expanded="true" />
+-          </folding>
++        <state relative-caret-position="104">
++          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/trydjango19/settings.py">
++    <entry file="file://$PROJECT_DIR$/src/trydjango19/settings.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="305">
+-          <caret line="71" column="23" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="23" />
++        <state relative-caret-position="176">
++          <caret line="125" column="37" selection-start-line="125" selection-start-column="37" selection-end-line="125" selection-end-column="37" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/trydjango19/wsgi.py">
++    <entry file="file://$PROJECT_DIR$/src/posts/forms.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="170">
+-          <caret line="12" selection-start-line="12" selection-end-line="12" />
++        <state relative-caret-position="204">
++          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
++          <folding>
++            <element signature="e#0#24#0" expanded="true" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/templates/index.html">
++    <entry file="file://$PROJECT_DIR$/src/templates/base.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="187">
+-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
++        <state relative-caret-position="200">
++          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/templates/post_detail.html">
++    <entry file="file://$PROJECT_DIR$/src/templates/post_detail.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="255">
+-          <caret line="15" selection-start-line="15" selection-end-line="15" />
++        <state relative-caret-position="68">
++          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/models.py">
++    <entry file="file://$PROJECT_DIR$/src/posts/urls.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="255">
+-          <caret line="15" selection-start-line="15" selection-end-line="15" />
++        <state relative-caret-position="238">
++          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+           <folding>
+-            <element signature="e#0#39#0" expanded="true" />
++            <element signature="e#0#32#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/templates/post_form.html">
++    <entry file="file://$PROJECT_DIR$/src/posts/models.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state>
+-          <caret column="15" selection-start-column="15" selection-end-column="15" />
++        <state relative-caret-position="305">
++          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
++          <folding>
++            <element signature="e#0#39#0" expanded="true" />
++            <marker date="1550076225772" expanded="true" signature="1844:1845" ph="..." />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/urls.py">
++    <entry file="file://$PROJECT_DIR$/src/trydjango19/urls.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="272">
+-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
++        <state relative-caret-position="1376">
++          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+           <folding>
+-            <element signature="e#0#32#0" expanded="true" />
++            <element signature="e#700#732#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/../../django site/env1.9/Lib/site-packages/pip/_internal/vcs/git.py">
++    <entry file="file://$PROJECT_DIR$/src/posts/views.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="187">
+-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
++        <state>
++          <folding>
++            <element signature="e#1#36#0" expanded="true" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/posts/views.py">
++    <entry file="file://$PROJECT_DIR$/src/templates/post_list.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="244">
+-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+-          <folding>
+-            <element signature="e#0#35#0" expanded="true" />
+-            <marker date="1549402460077" expanded="true" signature="965:967" ph="..." />
+-          </folding>
++        <state relative-caret-position="153">
++          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+         </state>
+       </provider>
+     </entry>

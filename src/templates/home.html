@@ -1,1 +1,15 @@
-<h3>hello</h3>
+<h3>{{ title }}</h3><br>
+
+{{ user }}<br>
+
+{{ request.user }}<br>
+<form method="POST" action="">{% csrf_token %}
+
+    {{ form.as_p }}<br>
+<input type="submit" value="Sign Up">
+</form>
+
+<br>
+<br>
+<br>
+<br>

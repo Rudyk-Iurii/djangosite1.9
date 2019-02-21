@@ -25,7 +25,7 @@ def home(request):
         "title": title, #for using key in templates in {{ key }}
         "form": form,
     }
-    return render(request, "base1.html", context)
+    return render(request, "home.html", context)
 
 
 def contact(request):

@@ -1,29 +1,46 @@
 {% extends "base1.html" %}
+{% load crispy_forms_tags %}
+
 {% block head_title %}Home{% endblock %}
 {% block jumbotron %}
-  <div class="jumbotron">
-      {% block jumbotron_content %}
-    <h1>Новый сайт Юрца</h1>
-    <p class="lead">This example is a quick exercise to illustrate how the top-aligned navbar works. As you scroll, this navbar remains in its original position and moves with the rest of the page.</p>
-    <a class="btn btn-lg btn-primary" href="/docs/4.3/components/navbar/" role="button">View navbar docs &raquo;</a>
-  {% endblock %}
+<div class="jumbotron">
+
+  {% block jumbotron_content %}
+  <div class="row">
+    <div class="col-sm-6">
+      <h1>Новый сайт Юрца</h1>
+      <p class="lead">万里追随你，从不迷路。不怕冷，不怕火，不吃又不喝。太阳西下，我便消失。<br> 你的影子</p>
+      <a class="btn btn-lg btn-primary" href="" role="button">Join Us &raquo;</a>
+    </div>
+    <div class="col-sm-6" style="background-color: black; height: 300px">
+
+    </div>
   </div>
+  {% endblock %}
+</div>
 
 
 {% endblock %}
 
 {% block content %}
-<h3>{{ title }}</h3><br>
+<div class="row">
+  <div class="col-sm-2" style="background-color: gray; height: 300px"><p class="lead">test1</p></div>
+  <div class="col-sm-3" style="background-color: gold; height: 300px"><p class="lead">test2</p></div>
+  <div class="col-sm-3" style="background-color: yellowgreen; height: 300px"><p class="lead">test3</p></div>
 
-{{ user }}<br>
+  <div class="col-sm-3"  >
+    <h3>{{ title }}</h3><br>
 
-{{ request.user }}<br>
-<form method="POST" action="">{% csrf_token %}
+    <!--{{ user }}<br>-->
 
-    {{ form.as_p }}<br>
-<input type="submit" value="Sign Up">
-</form>
+    <!--{{ request.user }}<br>-->
+    <form  method="POST" action="">{% csrf_token %}
 
+      {{ form|crispy }}<br>
+      <input class="btn btn-primary" type="submit" value="Sign Up">
+    </form>
+  </div>
+</div>
 <br>
 <br>
 <br>

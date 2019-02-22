@@ -2,6 +2,21 @@
 {% load crispy_forms_tags %}
 
 {% block head_title %}Home{% endblock %}
+
+<!--for current page only↓-->
+<style>
+  {% block style %}
+    .col-xs-3{
+      float: right;
+    }
+    /*.text-allign-center{*/
+      /*text-align: center;*/
+    /*}*/
+  {% endblock %}
+</style>
+
+
+
 {% block jumbotron %}
 <div class="jumbotron">
 
@@ -23,12 +38,8 @@
 {% endblock %}
 
 {% block content %}
-<div class="row">
-  <div class="col-sm-2" style="background-color: gray; height: 300px"><p class="lead">test1</p></div>
-  <div class="col-sm-3" style="background-color: gold; height: 300px"><p class="lead">test2</p></div>
-  <div class="col-sm-3" style="background-color: yellowgreen; height: 300px"><p class="lead">test3</p></div>
 
-  <div class="col-sm-3"  >
+  <div class="col-xs-3 col-sm-3"  >
     <h3>{{ title }}</h3><br>
 
     <!--{{ user }}<br>-->
@@ -40,6 +51,11 @@
       <input class="btn btn-primary" type="submit" value="Sign Up">
     </form>
   </div>
+<div class="row">
+  <div class="col-sm-4" style="background-color: gray;"><p class="lead text-allign-center">test1</p></div>
+  <div class="col-sm-4" style="background-color: gold; "><p class="lead text-allign-center">test2</p></div>
+  <div class="col-sm-4  " style="background-color: yellowgreen; "><p class="lead text-allign-center">test3</p></div>
+
 </div>
 <br>
 <br>

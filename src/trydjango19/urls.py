@@ -23,7 +23,8 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^posts/', include("posts.urls", namespace='posts')),
     url(r'^$', "newsletter.views.home", name='home'),
-    url(r'^contact/$', "newsletter.views.contact", name='contact')
+    url(r'^contact/$', "newsletter.views.contact", name='contact'),
+    url(r'^about/$', "trydjango19.views.about", name='about'),
     #url(r'^posts/$', "<appname>.views.<function_name>"),
 ]
 

@@ -12,7 +12,14 @@
     <!--<link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/navbar-static/">-->
 
 
- {% include 'head_css.html' %}
+      {% include 'head_css.html' %}
+      <style>
+          {% block style %}
+
+
+          {% endblock %}
+      </style>
+
 
   </head>
 
@@ -23,11 +30,13 @@
 <div class="container">
   {% block jumbotron %}
   {% endblock %}
-
-  {% block content %}
-  {% endblock %}
 </div>
 
+<div class="container"  >
+{% block content %}
+  <!--code from post_list-->
+{% endblock %}
+</div>
 
  {% include 'javascript.html' %}
 

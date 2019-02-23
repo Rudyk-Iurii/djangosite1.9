@@ -36,8 +36,8 @@ EMAIL_USE_TLS = True
 
 # Application definition
 INSTALLED_APPS = [
-    'registration',
     'django.contrib.admin',
+    'registration',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -148,6 +148,8 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 ACCOUNT_ACTIVATION_DAYS = 7
 REGISTRATION_AUTO_LOGIN = True
+
+SITE_ID = 1
 
 
 

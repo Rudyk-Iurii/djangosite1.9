@@ -1,4 +1,4 @@
-{% extends "base1.html" %}
+{% extends "base.html" %}
 {% load crispy_forms_tags %}
 
 {% block head_title %}Contact{% endblock %}
@@ -6,9 +6,9 @@
 
 {% block content %}
 {% if title %}
-<div class="col-xs-3 col-sm-3"  >
-    <div class="row">
-{{ title }}
+<div class="row">
+    <div class="col-sm-12">
+       <h1 class="text-allign-center">{{ title }}</h1>
     </div>
 </div>
 {% endif %}

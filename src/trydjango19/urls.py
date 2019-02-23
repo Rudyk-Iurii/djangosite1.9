@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^$', "newsletter.views.home", name='home'),
     url(r'^contact/$', "newsletter.views.contact", name='contact'),
     url(r'^about/$', "trydjango19.views.about", name='about'),
+    url(r'^accounts/', include('registration.backends.simple.urls')),
     #url(r'^posts/$', "<appname>.views.<function_name>"),
 ]
 

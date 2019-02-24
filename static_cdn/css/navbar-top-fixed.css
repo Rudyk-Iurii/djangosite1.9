@@ -2,4 +2,9 @@
 body {
   min-height: 75rem;
   padding-top: 0rem;
+  padding-bottom: 0px;
+}
+
+.navbar-expand-md {
+  border-color: #1b1e21;
 }

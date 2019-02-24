@@ -6,27 +6,34 @@
 <!--for current page only↓-->
 <style>
   {% block style %}
-    .col-xs-3{
-      float: right;
-    }
-    /*.text-allign-center{*/
-      /*text-align: center;*/
-    /*}*/
+  .jumbotron{
+    background-color: #343a40;
+    color: red;
+    height: 500px;
+    border-radius: 0px;
+  }
+
+  /*.text-allign-center{*/
+  /*text-align: center;*/
+  /*}*/
   {% endblock %}
 </style>
 
-
+<!--https://www.youtube.com/watch?v=H50U9PX_dvw-->
 
 {% block jumbotron %}
 <div class="jumbotron">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <h1>Freedomdia</h1>
+        <p class="lead">万里追随你，从不迷路。不怕冷，不怕火，不吃又不喝。太阳西下，我便消失。<br> 你的影子</p>
+        <a class="btn btn-lg btn-outline-info" href="" role="button">Join Us &raquo;</a>
+      </div>
+      <div class="col-sm-6" style="height: 300px">
+        <iframe width="600" height="300" src="https://www.youtube.com/embed/H50U9PX_dvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
 
-  <div class="row">
-    <div class="col-sm-6">
-      <h1>Новый сайт Юрца</h1>
-      <p class="lead">万里追随你，从不迷路。不怕冷，不怕火，不吃又不喝。太阳西下，我便消失。<br> 你的影子</p>
-      <a class="btn btn-lg btn-primary" href="" role="button">Join Us &raquo;</a>
-    </div>
-    <div class="col-sm-6" style="background-color: black; height: 300px">
 
     </div>
   </div>
@@ -37,23 +44,40 @@
 
 {% block content %}
 
-  <div class="col-xs-3 col-sm-3"  >
+
+<div class="row">
+  <div class="col-md-3 text-allign-center" style="font-style: oblique"><p class="lead" style="height: 20px">Быстро<br>
+
+    <span style="font-size: 100px;  color: Dodgerblue;">
+      <i class="fab fa-avianex fa-1x"></i>
+    </span>
+  </div>
+  </p>
+
+  <div class="col-md-3 text-allign-center" style="font-style: oblique"><p class="lead" style="height: 20px">Выгодно<br>
+    <span class="fa-stack fa-lg" style="font-size: 100px; color: greenyellow;">
+  <i class="fa fa-spinner fa-pulse fa-stack-2x"></i>
+  <i class="fa fa-hryvnia fa-stack-1x"></i>
+</span>
+  </p>
+
+  </div>
+  <div class="col-md-3 text-allign-center" style="font-style: oblique"><p class="lead" style="height: 20px" >Безопасно<br>
+    <!--<i class="fas fa-bolt"></i>-->
+    <span style="font-size: 100px; color: darkslategray;">
+      <i class="fas fa-user-secret fa-1x"></i>
+    </span>
+  </p>
+
+  </div>
+  <div class="col-sm-3"  >
     <h3>{{ title }}</h3><br>
-
     <!--{{ user }}<br>-->
-
     <!--{{ request.user }}<br>-->
-    <form  method="POST" action="">{% csrf_token %}
-
-      {{ form|crispy }}<br>
-      <input class="btn btn-primary" type="submit" value="Sign Up">
+    <form  method="POST" action="">{% csrf_token %}{{ form|crispy }}<br>
+      <input class="btn btn-sm btn-primary" type="submit" value="Sign Up">
     </form>
   </div>
-<div class="row">
-  <div class="col-sm-4" style="background-color: gray;"><p class="lead text-allign-center">test1</p></div>
-  <div class="col-sm-4" style="background-color: gold; "><p class="lead text-allign-center">test2</p></div>
-  <div class="col-sm-4  " style="background-color: yellowgreen; "><p class="lead text-allign-center">test3</p></div>
-
 </div>
 <br>
 <br>

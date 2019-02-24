@@ -1,17 +1,18 @@
 {% load staticfiles %}
 
 
-<nav class="navbar navbar-expand-md navbar-dark bg-primary mb-3">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" href="{% url 'home' %}">SMM Group</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
+
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="{% url 'home' %}">Home <span class="sr-only">(current)</span></a>
-        </li>
+        <!--<li class="nav-item active">-->
+        <!--<a class="nav-link" href="{% url 'home' %}">Home <span class="sr-only">(current)</span></a>-->
+        <!--</li>-->
         <li class="nav-item">
           <a class="nav-link" href="/posts">Posts</a>
         </li>
@@ -22,20 +23,51 @@
           <a class="nav-link" href="{% url 'contact' %}" tabindex="-1" aria-disabled="false">Contact</a>
         </li>
       </ul>
+
+      {% if user.is_authenticated %}
+
       <form class="form-inline mt-2 mt-md-0" action="/posts">
         <input class="form-control mr-sm-2" type="text" name="q" placeholder="Search posts" value="{{ request.GET.q }}">
         <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="nav navbar">
-          {% if user.is_authenticated %}
-            <li><a class="navbar-brand" href="{% url 'auth_logout' %}"> Logout </a></li>
-          {% else %}
-          <li><a class="btn nav-item active" href="{% url 'auth_login' %}"> Login </a></li>
-          <li><a class="btn" href="{% url 'registration_register' %}"> Register </a></li>
-          {% endif%}
-        </ul>
-        </div>
+
+
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{% url 'auth_logout' %}"> Logout </a>
+            </li>
+          </ul>
+
       </form>
+      <div class="btn-outline-info" style="color: darkorange">→<strong>{{ user }}</strong>←
+        <strong style="color: red">{% if user.is_staff %}
+          STAFF
+          {% endif %}</strong>
+      </div>
+      {% else %}
+
+
+        <ul class="navbar-nav ml-auto">
+          <!--<form class="navbar-form navbar-right" method="POST" action="">{% csrf_token %}-->
+          <!--<div class="form-group">-->
+          <!--<input type="text" class="form-control" name="username" placeholder="Username">-->
+          <!--</div>-->
+          <!--<div class="form-group">-->
+          <!--<input type="password" class="form-control" name="Password" placeholder="Password">-->
+          <!--</div>-->
+          <!--<button type="submit" class="nav-item">Login</button>-->
+          <!--</form>-->
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'auth_login' %}"> Login </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'registration_register' %}"> Register </a>
+          </li>
+        </ul>
+
+        {% endif%}
+
+
+
     </div>
   </div>
 </nav>

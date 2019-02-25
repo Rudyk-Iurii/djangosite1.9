@@ -6,7 +6,7 @@ from .forms import SignUpForm, ContactForm
 
 # Create your views here.
 def home(request):
-    title = "Welcome"
+    title = "Sign Up Now!"
     # if request.user.is_authenticated():
     #     title = "Hello, %s"%(request.user)
     #add a form

@@ -1,6 +1,6 @@
 /* Show it is fixed to the top */
 body {
-  min-height: 75rem;
+  min-height: 1000px;
   padding-top: 0rem;
   padding-bottom: 0px;
 }

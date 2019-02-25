@@ -70,14 +70,16 @@
   </p>
 
   </div>
+  {% if not user.is_authenticated %}
   <div class="col-sm-3"  >
-    <h3>{{ title }}</h3><br>
+    <h1 style="font-style: italic">{{ title }}</h1><br>
     <!--{{ user }}<br>-->
     <!--{{ request.user }}<br>-->
     <form  method="POST" action="">{% csrf_token %}{{ form|crispy }}<br>
       <input class="btn btn-sm btn-primary" type="submit" value="Sign Up">
     </form>
   </div>
+  {% endif %}
 </div>
 <br>
 <br>
